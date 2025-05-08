@@ -3,7 +3,7 @@
   
 <div align=center>
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=quickmiss)](https://solved.ac/profile/quickmiss)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=quickmiss)](https://solved.ac/profile/quickmiss/)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quickmiss&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
