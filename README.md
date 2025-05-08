@@ -4,6 +4,7 @@
 <div align=center>
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=quickmiss)](https://solved.ac/quickmiss/)
+
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quickmiss&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
@@ -20,7 +21,6 @@
 ![csharp](https://img.shields.io/badge/csharp-512BD4.svg?&style=for-the-badge&logo=csharp&logoColor=#512BD4)
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 <br/>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=k99812)](https://solved.ac/k99812)
 
 </div>
 
